@@ -1,0 +1,15 @@
+{
+  "name": "KIMI AI Agent Dashboard",
+  "version": "2.0.0",
+  "release_type": "static_public_demo",
+  "live": false,
+  "backend": false,
+  "network": false,
+  "external_actions": false,
+  "physical_iphone_test": "NOT_RUN",
+  "files": [
+    "index.html",
+    "README.md",
+    "manifest.json"
+  ]
+}

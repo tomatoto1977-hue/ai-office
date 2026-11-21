@@ -1,0 +1,15 @@
+{
+  "name": "HIROKI AI AGENCY Pixel Office",
+  "short_name": "HIROKI OFFICE",
+  "description": "Pixel Office dashboard with local task manager and simulated agent workflow",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9e5d8",
+  "theme_color": "#e9e5d8",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
